@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Show Contact</string>
+    <string name="title_activity_show_all_contact">Show All Contact</string>
+</resources>

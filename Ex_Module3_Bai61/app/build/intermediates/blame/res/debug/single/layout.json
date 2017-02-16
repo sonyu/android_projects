@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_show_data.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\layout\\layout_show_data.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_author.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\layout\\activity_create_author.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_show_data2.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\layout\\layout_show_data2.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_layout_for_show_list_data.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\layout\\my_layout_for_show_list_data.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insert_book.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\layout\\activity_insert_book.xml"
+    }
+]

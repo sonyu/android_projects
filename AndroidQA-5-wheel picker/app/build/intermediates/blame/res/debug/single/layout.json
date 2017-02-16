@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_bg.xml",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\layout\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_val.xml",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\layout\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myshape1.xml",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\layout\\myshape1.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\th_welcome.gif",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\drawable-mdpi\\th_welcome.gif"
+    },
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidQA-5-wheel picker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animimage.gif",
+        "source": "D:\\android\\AndroidQA-5-wheel picker\\app\\src\\main\\res\\drawable-mdpi\\animimage.gif"
+    }
+]

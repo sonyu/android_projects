@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidQA-5-wheel picker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="89fa1dbd29d86d8375420ffcbc172cbfceee7e6a">
+        <dex dex="D:\android\AndroidQA-5-wheel picker\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a98335053100a60d8191ba7e14ce2a9dacfaae35.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidQA-5-wheel picker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e120cd316c75038d5f7aa80fabe6a577ce6fa1f6">
+        <dex dex="D:\android\AndroidQA-5-wheel picker\app\build\intermediates\pre-dexed\debug\instant-run_891013610cb1ea4d3a7efa6f61475f8b24d3d055.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pwd">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_link_to_login">Login</string>
+</resources>

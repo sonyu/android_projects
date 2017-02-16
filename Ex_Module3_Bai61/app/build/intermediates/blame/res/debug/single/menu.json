@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_insert_book.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\menu\\activity_insert_book.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_create_author.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\menu\\activity_create_author.xml"
+    },
+    {
+        "merged": "D:\\android\\Ex_Module3_Bai61\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_simple_database_main.xml",
+        "source": "D:\\android\\Ex_Module3_Bai61\\app\\src\\main\\res\\menu\\activity_simple_database_main.xml"
+    }
+]

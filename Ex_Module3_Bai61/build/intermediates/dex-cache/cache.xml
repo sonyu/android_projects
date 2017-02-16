@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\Ex_Module3_Bai61\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6d849397ed23a16f1ec06f1dbd50369ae8b3c760">
+        <dex dex="D:\android\Ex_Module3_Bai61\app\build\intermediates\pre-dexed\debug\instant-run_421cbbc4b4889ea0c499d5a0862418f361aa5a8b.jar" />
+    </item>
+    <item
+        jar="D:\android\Ex_Module3_Bai61\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f668d5de72f13242376d0f44a3b681e3e3e11997">
+        <dex dex="D:\android\Ex_Module3_Bai61\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_65e80c5ff11dfd9ab53882258dbf6db381e7d02b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="D:\android\Ex_Module3_Bai61\app\build\intermediates\pre-dexed\debug\support-v4-19.0.0_c57f2c76173eb7dd4dda4999e20c742f805a46ee.jar" />
+    </item>
+
+</items>
