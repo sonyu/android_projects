@@ -108,8 +108,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public void createDefaultNote(){
         int count = this.getNoteCount();
         if(count==0){
-            Daydetail nte24	 = new 	Daydetail("02-13","tết dương lich");	this.addNote(nte24	);
-            Daydetail nte1	 = new 	Daydetail("01-01","tết dương lich");	this.addNote(nte1	);
+             Daydetail nte1	 = new 	Daydetail("01-01","tết dương lich");	this.addNote(nte1	);
             Daydetail nte2	 = new 	Daydetail("02-03","thành lập Đảng CSVN");	this.addNote(nte2	);
             Daydetail nte3	 = new 	Daydetail("02-15","valentin");	this.addNote(nte3	);
             Daydetail nte4	 = new 	Daydetail("02-27","thầy thuốc Việt Nam");	this.addNote(nte4	);
@@ -189,9 +188,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public void createDefaultNoteA(){
         int count = this.getNoteCountA();
         if(count==0){
-            Daydetail nte1	 = new 	Daydetail("01-17","không có gì đặc biệt");	this.addNoteA(nte1);
-            Daydetail nte2	 = new 	Daydetail("01-14","123456");	this.addNoteA(nte2);
-            Daydetail nte3	 = new 	Daydetail("01-01","mùng 1 tết");	this.addNoteA(nte3);
+             Daydetail nte3	 = new 	Daydetail("01-01","mùng 1 tết");	this.addNoteA(nte3);
             Daydetail nte4	 = new 	Daydetail("01-02","mùng 2 tết");	this.addNoteA(nte4);
             Daydetail nte5	 = new 	Daydetail("01-03","mùng 3 tết");	this.addNoteA(nte5);
             Daydetail nte6	 = new 	Daydetail("01-15","tết Thượng nguyên");	this.addNoteA(nte6);

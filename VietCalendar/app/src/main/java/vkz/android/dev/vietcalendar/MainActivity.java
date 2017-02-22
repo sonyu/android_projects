@@ -195,19 +195,19 @@ public class MainActivity extends AppCompatActivity {
             }
 
         }
-        if(eventD.equals("")&&eventA.equals("")) {
-            event="";
-        }else {
-            if(eventD.equals("")) {
-                event = "Ngày " + eventA;
-            }
-            if(eventA.equals("")){
-                    event="Ngày "+eventD;
+         if(eventD.equals("")) {
+                if(eventA.equals("")){
+                    event="";
+                }else{
+                    event = "Ngày "+eventA;
+                }
             }else{
+                if(eventA.equals("")){
+                    event="Ngày "+eventD;
+                }else{
                     event = "Ngày "+eventD+" ,"+eventA;
                 }
-
-        }
+            }
 
         return event;
     }
